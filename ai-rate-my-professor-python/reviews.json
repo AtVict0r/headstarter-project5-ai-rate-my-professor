@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Prof1",
+        "review": "Great professor...",
+        "subject": "Math",
+        "stars": 5
+      },
+      {
+        "professor": "Prof2",
+        "review": "Bad professor...",
+        "subject": "English",
+        "stars": 1
+      },
+      {
+        "professor": "Prof3",
+        "review": "Average professor...",
+        "subject": "Science",
+        "stars": 3
+      },
+      {
+        "professor": "Prof4",
+        "review": "Great professor...",
+        "subject": "History",
+        "stars": 5
+      },
+      {
+        "professor": "Prof5",
+        "review": "Bad professor...",
+        "subject": "Art",
+        "stars": 1
+      },
+      {
+        "professor": "Prof6",
+        "review": "Average professor...",
+        "subject": "Music",
+        "stars": 3
+      },
+      {
+        "professor": "Prof7",
+        "review": "Great professor...",
+        "subject": "Physical Education",
+        "stars": 5
+      },
+      {
+        "professor": "Prof8",
+        "review": "Bad professor...",
+        "subject": "Geography",
+        "stars": 1
+      },
+      {
+        "professor": "Prof9",
+        "review": "Average professor...",
+        "subject": "Biology",
+        "stars": 3
+      },
+      {
+        "professor": "Prof10",
+        "review": "Great professor...",
+        "subject": "Chemistry",
+        "stars": 5
+      },
+      {
+        "professor": "Prof11",
+        "review": "Bad professor...",
+        "subject": "Mathematics",
+        "stars": 1
+      },
+      {
+        "professor": "Prof12",
+        "review": "Average professor...",
+        "subject": "Physics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof13",
+        "review": "Great professor...",
+        "subject": "History",
+        "stars": 5
+      },
+      {
+        "professor": "Prof14",
+        "review": "Bad professor...",
+        "subject": "English",
+        "stars": 1
+      },
+      {
+        "professor": "Prof15",
+        "review": "Average professor...",
+        "subject": "Art",
+        "stars": 3
+      },
+      {
+        "professor": "Prof16",
+        "review": "Great professor...",
+        "subject": "Music",
+        "stars": 5
+      },
+      {
+        "professor": "Prof17",
+        "review": "Bad professor...",
+        "subject": "Foreign Language",
+        "stars": 1
+      },
+      {
+        "professor": "Prof18",
+        "review": "Average professor...",
+        "subject": "Geography",
+        "stars": 3
+      },
+      {
+        "professor": "Prof19",
+        "review": "Great professor...",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof20",
+        "review": "Bad professor...",
+        "subject": "Chemistry",
+        "stars": 1
+      }
+    ]
+  }
